@@ -1,0 +1,11 @@
+{
+  "name": "STINGER",
+  "symbol": "STINK",
+  "description": "The official token of the STINK project.",
+  "image": "___COMINGUP___",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://stink.io",
+  "attributes": [
+    { "trait_type": "Type", "value": "Utility Token" }
+  ]
+}
