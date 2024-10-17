@@ -2,7 +2,7 @@
   "name": "STINGER",
   "symbol": "STINK",
   "description": "The official token of the STINK project.",
-  "image": "___COMINGUP___",
+  "image": "https://raw.githubusercontent.com/retrofinger/slap/main/STINK.png",
   "seller_fee_basis_points": 0,
   "external_url": "https://stink.io",
   "attributes": [
