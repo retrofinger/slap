@@ -1,0 +1,8 @@
+{
+  "name": "ZONG",
+  "symbol": "ZONG",
+  "description": "The official token of the ZONG project.",
+  "image": "https://raw.githubusercontent.com/retrofinger/slap/main/ZONG.png",
+  "external_url": "https://zong.io",
+  "seller_fee_basis_points": 0
+}
