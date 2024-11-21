@@ -1,0 +1,8 @@
+{
+  "name": "BOLD",
+  "symbol": "BOLD",
+  "description": "The official token of the BOLD project.",
+  "image": "https://raw.githubusercontent.com/retrofinger/slap/refs/heads/main/BONG.png",
+  "external_url": "https://zong.io",
+  "seller_fee_basis_points": 0
+}
